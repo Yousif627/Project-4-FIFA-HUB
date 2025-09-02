@@ -1,0 +1,7 @@
+[
+  { "model": "main_app.club", "pk": 1, "fields": { "name": "Arsenal", "flag": "🇬🇧", "league": 1 } },
+  { "model": "main_app.club", "pk": 2, "fields": { "name": "Aston Villa", "flag": "🇬🇧", "league": 1 } },
+  { "model": "main_app.club", "pk": 3, "fields": { "name": "Brentford", "flag": "🇬🇧", "league": 1 } },
+  { "model": "main_app.club", "pk": 4, "fields": { "name": "Brighton & Hove Albion", "flag": "🇬🇧", "league": 1 } }
+
+]

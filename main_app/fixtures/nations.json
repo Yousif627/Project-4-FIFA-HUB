@@ -1,0 +1,8 @@
+[
+  { "model": "main_app.nation", "pk": 1, "fields": { "name": "Afghanistan", "flag": "🇦🇫" } },
+  { "model": "main_app.nation", "pk": 2, "fields": { "name": "Åland Islands", "flag": "🇦🇽" } },
+  { "model": "main_app.nation", "pk": 3, "fields": { "name": "Albania", "flag": "🇦🇱" } },
+  { "model": "main_app.nation", "pk": 4, "fields": { "name": "Algeria", "flag": "🇩🇿" } },
+  { "model": "main_app.nation", "pk": 5, "fields": { "name": "American Samoa", "flag": "🇦🇸" } }
+
+]

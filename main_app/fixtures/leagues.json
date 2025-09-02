@@ -1,0 +1,7 @@
+[
+  { "model": "main_app.league", "pk": 1, "fields": { "name": "Premier League", "flag": "🇬🇧" } },
+  { "model": "main_app.league", "pk": 2, "fields": { "name": "La Liga", "flag": "🇪🇸" } },
+  { "model": "main_app.league", "pk": 3, "fields": { "name": "Serie A", "flag": "🇮🇹" } },
+  { "model": "main_app.league", "pk": 4, "fields": { "name": "Bundesliga", "flag": "🇩🇪" } },
+  { "model": "main_app.league", "pk": 5, "fields": { "name": "Ligue 1", "flag": "🇫🇷" } }
+]

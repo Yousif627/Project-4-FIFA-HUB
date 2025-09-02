@@ -1,0 +1,8 @@
+[
+  { "model": "main_app.cardrarity", "pk": 1, "fields": { "name": "Silver", "background_image": "" } },
+  { "model": "main_app.cardrarity", "pk": 2, "fields": { "name": "Bronze", "background_image": "" } },
+  { "model": "main_app.cardrarity", "pk": 3, "fields": { "name": "Common", "background_image": "" } },
+  { "model": "main_app.cardrarity", "pk": 4, "fields": { "name": "TEAM OF THE WEEK", "background_image": "" } },
+  { "model": "main_app.cardrarity", "pk": 5, "fields": { "name": "TOTS CHAMPIONS", "background_image": "" } }
+  
+]

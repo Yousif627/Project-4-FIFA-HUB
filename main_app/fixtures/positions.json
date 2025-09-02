@@ -1,0 +1,19 @@
+[
+  { "model": "main_app.position", "pk": 1, "fields": { "code": "ST", "name": "Striker" } },
+  { "model": "main_app.position", "pk": 2, "fields": { "code": "RW", "name": "Right Wing" } },
+  { "model": "main_app.position", "pk": 3, "fields": { "code": "LW", "name": "Left Wing" } },
+  { "model": "main_app.position", "pk": 4, "fields": { "code": "CF", "name": "Center Forward" } },
+  { "model": "main_app.position", "pk": 5, "fields": { "code": "RF", "name": "Right Forward" } },
+  { "model": "main_app.position", "pk": 6, "fields": { "code": "LF", "name": "Left Forward" } },
+  { "model": "main_app.position", "pk": 7, "fields": { "code": "CDM", "name": "Center Defensive Midfielder" } },
+  { "model": "main_app.position", "pk": 8, "fields": { "code": "LM", "name": "Left Midfielder" } },
+  { "model": "main_app.position", "pk": 9, "fields": { "code": "RM", "name": "Right Midfielder" } },
+  { "model": "main_app.position", "pk": 10, "fields": { "code": "CM", "name": "Center Midfielder" } },
+  { "model": "main_app.position", "pk": 11, "fields": { "code": "CAM", "name": "Center Attacking Midfielder" } },
+  { "model": "main_app.position", "pk": 12, "fields": { "code": "CB", "name": "Center Back" } },
+  { "model": "main_app.position", "pk": 13, "fields": { "code": "RB", "name": "Right Back" } },
+  { "model": "main_app.position", "pk": 14, "fields": { "code": "LB", "name": "Left Back" } },
+  { "model": "main_app.position", "pk": 15, "fields": { "code": "RWB", "name": "Right Wing Back" } },
+  { "model": "main_app.position", "pk": 16, "fields": { "code": "LWB", "name": "Left Wing Back" } },
+  { "model": "main_app.position", "pk": 17, "fields": { "code": "GK", "name": "Goal Keeper" } }
+]
